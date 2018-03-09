@@ -1,8 +1,8 @@
 #!/bin/bash
-# Descr: generate a word frequency list order output
-#		 by frequency (words split by space)
+# Descr: prints the amount of times the word 'de' occurs
+# 	 in a file
 #
-# Usage: ./wordfreq.sh FILE
+# Usage: ./wordfreqDE.sh FILE
 #
 #argument is the file. check if we get it. 
 
